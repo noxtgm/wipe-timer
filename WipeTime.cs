@@ -30,7 +30,7 @@ namespace Oxide.Plugins
                 "0.972 0.922 0.890 0.04",
                 "NEXT WIPE", // Text that will be displayed before the date
                 "1 1 1 0.8",
-                "22/08/2023", // Edit with the following wipe's date
+                "01/01/2024", // Edit with the following wipe's date
                 "1 1 1 1",
                 "wave",
                 "1 1 1 0.5",
