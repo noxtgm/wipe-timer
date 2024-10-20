@@ -5,7 +5,7 @@ Rust plugin that displays the date of your server's next wipe using Mr01sam's Cu
 ## 📖 Installation
 
 * Download `WipeTime.cs`
-* Download Mr01sam's [Custom Status Framework](https://codefling.com/plugins/custom-status-framework)
+* Download [Mr01sam's Custom Status Framework](https://codefling.com/plugins/custom-status-framework)
 * Paste the 2 files into your `oxide/plugins` folder
 * Modify the top of `WipeTime.cs` with your next wipe date
 
