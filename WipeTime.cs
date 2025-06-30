@@ -5,7 +5,7 @@ using Oxide.Core.Plugins;
 namespace Oxide.Plugins
 {
     [Info("Wipe Time", "NoxTGM", "1.0.0")]
-    [Description("Affiche la date du prochain wipe au dessus des autres status en bas à droite.")]
+    [Description("Displays next wipe date as a status in the bottom right above food, hydration, etc.")]
     internal class WipeTime : CovalencePlugin
     {
         #region Variables
