@@ -11,7 +11,7 @@ Rust plugin that displays the date of your server's next wipe using Mr01sam's Cu
 
 ## 📄 License
 
-[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 <br>
 
